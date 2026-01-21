@@ -103,19 +103,11 @@ FROM orders
 GROUP BY payment_method;
 ```
 
-## Скриншоты дашборда
+## Скриншоты
 
-### Общий вид дашборда
-![Дашборд](screenshots/dashboard.png)
+![Дашборд](screenshots/доска_статистики.png)
 
-### Выручка по категориям
-![Категории](screenshots/categories.png)
-
-### Топ городов по заказам
-![Города](screenshots/cities.png)
-
-### Продажи по времени
-![Продажи по времени](screenshots/sales_timeline.png)
+![Запросы](screenshots/запросы_к_базе.png)
 
 ---
 
